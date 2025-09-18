@@ -1,0 +1,47 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Video files
+*.mp4
+*.avi
+*.mov
+*.MOV
+*.mkv
+*.webm
+*.flv
+*.wmv
+*.mpg
+*.mpeg
+
+# Audio files
+*.mp3
+*.wav
+*.flac
+*.aac
+*.ogg
+*.m4a
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Project directories
+input_videos/
+output_videos/
+temp/
+content/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
