@@ -1,0 +1,18 @@
+{
+  "bpm": 86.1328125,
+  "bpm_range": "80",
+  "beat_strength": 1.144217610359192,
+  "key": "C#",
+  "spectral_centroid_mean": 2162.36037983684,
+  "energy_mean": 0.1251210719347,
+  "energy_std": 0.06762124598026276,
+  "dynamic_range": 0.3284878134727478,
+  "onset_rate": 3.156545241124007,
+  "harmonic_ratio": 0.7677983641624451,
+  "low_freq_energy": 0.16656678915023804,
+  "mid_freq_energy": 0.5030596852302551,
+  "high_freq_energy": 0.3303735852241516,
+  "duration_seconds": 406.1402267573696,
+  "duration_minutes": 6.769003779289493,
+  "tempo_stability": 0.9735193381896989
+}

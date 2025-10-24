@@ -1,0 +1,18 @@
+{
+  "bpm": 172.265625,
+  "bpm_range": "170",
+  "beat_strength": 1.1785387992858887,
+  "key": "A",
+  "spectral_centroid_mean": 3122.3271101159385,
+  "energy_mean": 0.21150602400302887,
+  "energy_std": 0.08971592783927917,
+  "dynamic_range": 0.5776596069335938,
+  "onset_rate": 4.192041126718766,
+  "harmonic_ratio": 0.6626113653182983,
+  "low_freq_energy": 0.18861174583435059,
+  "mid_freq_energy": 0.4761422574520111,
+  "high_freq_energy": 0.3352460265159607,
+  "duration_seconds": 234.7305215419501,
+  "duration_minutes": 3.912175359032502,
+  "tempo_stability": 0.9885979711334836
+}
